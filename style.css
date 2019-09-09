@@ -13,3 +13,12 @@
 .logo {
   float: right;
 }
+
+/*tech*/
+#tech {
+  background-color: #1A1C6B;
+}
+
+#techitems > h2 {
+  color: white;
+}
