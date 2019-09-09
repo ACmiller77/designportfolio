@@ -28,3 +28,16 @@
 .spacerow {
   padding-bottom: 2em;
 }
+
+/*award*/
+.blue {
+  background-color: #e0ffff;
+}
+
+.headspace {
+  padding: 25px 0px;
+}
+
+.textspace {
+  padding-bottom: 25px;
+}
