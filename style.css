@@ -21,5 +21,10 @@
 }
 
 #techitems > h2 {
+  padding: 25px 0px;
   color: white;
+}
+
+.spacerow {
+  padding-bottom: 2em;
 }
