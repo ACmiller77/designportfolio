@@ -1,9 +1,5 @@
-#top {
-  background-color: #e0ffff;
-}
-
 .space {
-  padding-top: 20em;
+  padding-top: 6em;
 }
 
 #firsttext {
@@ -30,8 +26,8 @@
 }
 
 /*award*/
-.blue {
-  background-color: #e0ffff;
+.awards {
+  background-color: #white;
 }
 
 .headspace {
@@ -50,7 +46,7 @@
 }
 
 .grayback {
-  background-color: #1A1C6B;
+  background-color: white;
 }
 
 /*news design*/
