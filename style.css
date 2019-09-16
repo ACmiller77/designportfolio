@@ -52,3 +52,10 @@
 .grayback {
   background-color: #1A1C6B;
 }
+
+/*news design*/
+
+.DT {
+  margin: auto;
+  display: block;
+}
