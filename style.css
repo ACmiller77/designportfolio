@@ -17,6 +17,11 @@
   padding-top: 2em;
 }
 
+.rule {
+  padding-top: 1em;
+  background-color: #1A1C6B;
+}
+
 /*tech*/
 #tech {
   background-color: #1A1C6B;
