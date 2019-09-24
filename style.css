@@ -4,6 +4,11 @@
   background-color: HTML5_1Color_White;
 }
 
+.logo {
+  float: right;
+  padding-top: 2em;
+}
+
 .space {
   padding-top: 6em;
 }
@@ -12,9 +17,14 @@
   padding-bottom: 2em;
 }
 
-.logo {
-  float: right;
-  padding-top: 2em;
+h1 {
+  font-family: "cinzel", serif;
+  font-size: 3em;
+  padding-bottom: 20px;
+}
+
+p {
+  font-family: "oswald", sans-serif;
 }
 
 .rule {
@@ -25,6 +35,11 @@
 /*tech*/
 #tech {
   background-color: #1A1C6B;
+}
+
+h2 {
+  font-family: "cinzel", sans-serif;
+  margin: 50px 0px 0px 0px;
 }
 
 #techitems > h2 {
@@ -42,11 +57,11 @@
 }
 
 .headspace {
-  padding: 25px 0px;
+  padding: 0px 0px;
 }
 
 .textspace {
-  padding-bottom: 25px;
+  padding: 0px 0px 50px 0px;
 }
 
 .newsborder {
@@ -65,4 +80,12 @@
 .DT {
   margin: auto;
   display: block;
+  padding: 25px 0px 25px 0px;
+}
+
+/*footer*/
+
+.just_gray {
+  padding-top: 12em;
+  background-color: #D0D0D0;
 }
