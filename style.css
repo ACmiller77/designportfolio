@@ -9,8 +9,16 @@
   padding-top: 2em;
 }
 
+.logo2 {
+  padding-top: 0em;
+}
+
 .space {
   padding-top: 25em;
+}
+
+.space2 {
+  padding-top: 100em;
 }
 
 #firsttext {
