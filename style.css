@@ -27,9 +27,14 @@ p {
   font-family: "oswald", sans-serif;
 }
 
-p.mobile-header {
+.mobile-header {
   font-family: "cinzel", serif;
-  font-size: 3em;
+  font-size: 4em;
+}
+
+.mobile-header2 {
+  font-family: "cinzel", serif;
+  font-size: 2em;
 }
 
 .mobile-text {
