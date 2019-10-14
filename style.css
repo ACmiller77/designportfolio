@@ -91,6 +91,10 @@ h2 {
 
 /*news design*/
 
+.pages {
+  padding-bottom: 3em;
+}
+
 .DT {
   margin: auto;
   display: block;
