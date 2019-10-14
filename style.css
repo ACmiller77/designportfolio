@@ -27,6 +27,11 @@ p {
   font-family: "oswald", sans-serif;
 }
 
+p.mobile-header {
+  font-family: "cinzel", serif;
+  font-size: 3em;
+}
+
 .mobile-text {
   padding-top: 20px;
 }
